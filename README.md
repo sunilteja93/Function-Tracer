@@ -4,19 +4,19 @@ Google Chrome Extension to trace javascript active window function calls (Dynami
 
 Components needed : 
 
-Tracecalls-Extension(Folder)
-icon.png
-inject.js
-manifest.json
-tracecalls.js
+- Tracecalls-Extension(Folder)
+- icon.png
+- inject.js
+- manifest.json
+- tracecalls.js
 
 Sample File : 
 
-Inorder to understand the functionality of extension a sample file of a website is stored in the "Samples" folder
+- Inorder to understand the functionality of extension a sample file of a website is stored in the "Samples" folder
 
 Features of the extension :
 
-The log is saved into a JSON file with the URL and the timestamp and asks for download when the tab is closed, so that the developer can access the log later. 
+- The log is saved into a JSON file with the URL and the timestamp and asks for download when the tab is closed, so that the developer can access the log later. 
 
 Directions to install:
  
