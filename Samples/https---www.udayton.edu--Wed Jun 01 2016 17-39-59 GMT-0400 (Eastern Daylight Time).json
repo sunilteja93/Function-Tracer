@@ -1,1 +1,966 @@
+Active Javascript Fucntions of : https://www.udayton.edu/
+Function Name :  setTimeout
+Parameters : 10
 
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  onerror
+Parameters : 
+
+Function Name :  setTimeout
+Parameters : 500
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  googleTranslateElementInit
+Parameters : undefined
+
+Function Name :  addEventListener
+Parameters : function (c){return a.call(b.src,b.listener,c)}
+
+Function Name :  addEventListener
+Parameters : function (c){return a.call(b.src,b.listener,c)}
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  clearTimeout
+Parameters : undefined
+
+Function Name :  setTimeout
+Parameters : 0
+
+Function Name :  setTimeout
+Parameters : 500
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  getComputedStyle
+Parameters : null
+
+Function Name :  onload
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  _euc
+Parameters : undefined
+
+Function Name :  setTimeout
+Parameters : 10
+
+Function Name :  setTimeout
+Parameters : 0
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 500
+
+Function Name :  setTimeout
+Parameters : 500
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  setTimeout
+Parameters : 10
+
+Function Name :  setTimeout
+Parameters : 10
+
+Function Name :  setTimeout
+Parameters : 10
+
+Function Name :  setTimeout
+Parameters : 10
+
+Function Name :  setTimeout
+Parameters : 10
+
+Function Name :  setTimeout
+Parameters : 10
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 10
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 500
+
+Function Name :  setTimeout
+Parameters : 1000
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  _duc
+Parameters : undefined
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 1500
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 2000
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
+
+Function Name :  setTimeout
+Parameters : 100
