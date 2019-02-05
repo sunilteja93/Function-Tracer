@@ -1,20 +1,17 @@
 //To save the console log to a file and download it.
 
 (function(console){
-
     console.save = function(data, filename){
-
         if(!data) {
             console.error('Console.save: No data')
             return;
         }
-
         if(!filename) filename = 'console.json'
 
         if(typeof data === "object"){
             data = JSON.stringify(data, undefined, 4)
         }
-
+	    
         var blob = new Blob([data], {type: 'text/json'}),
             e    = document.createEvent('MouseEvents'),
             a    = document.createElement('a')
@@ -27,7 +24,6 @@
     }
 })(console)
 
-
 // window.location.href returns the current url..
 var urlname = "Active Javascript Fucntions of : " + window.location.href;
 var filename = window.location.href;
@@ -36,15 +32,10 @@ var filename = window.location.href;
 
 for (var prop in window) 
 {  
-  
-
-
 	if (typeof(window[prop]) === 'function')  
-	{
-    
+	{    
 		(function(prop) 
 		{
-      
 			var original_prop = window[prop];
       
 			window[prop] = function() 
@@ -59,12 +50,8 @@ for (var prop in window)
                                 console.log("Parameters : " + par); 
 				return original_prop.apply(window, arguments); 
 			}
-    
 		})(prop);
-  
 	}
-
-
 }
 
 window.onbeforeunload = function(){
@@ -79,7 +66,4 @@ var currentdatetime= new Date,
                currentdatetime.getSeconds()].join(':');
 console.save(urlname,filename+"-"+currentdatetime+".json");
 }
-
-
-
 
